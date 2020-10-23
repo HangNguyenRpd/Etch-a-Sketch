@@ -1,5 +1,5 @@
 # Etch-a-Sketch
-C programming project - first year CATA NCCA assignment
+C programming project
 
 To compile the program
 >> make
