@@ -18,9 +18,11 @@ The tool bar handles board (New and Refresh buttons), and the saving and loading
 The trays manipulate drawing process that allow user to pick color, choose line-width, change background and adjust speed.
 
 B. How to play
+
 Please see User Manual: https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/User_Manual.pdf
 
 C. Algorithms flow
+
 Please see Report for more details: https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/ETCH%20A%20SKETCH%20PROGRAM%20REPORT.pdf
 
 ![alt text](https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/Images/Etch-a-sketch_Flowchart.png)
