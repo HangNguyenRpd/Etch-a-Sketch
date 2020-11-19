@@ -6,6 +6,24 @@ To play, we press A and D to move vertically, left and right arrows to move hori
 
 The program has simple, straightforward and easy-to-use user interface with a tool bar, a column of trays, and a main drawing board. However, user must use terminal to run the program and type input such as file name. Saving operation can only store files in the same directory as the executable program.
 
+A.	User Interface
+
+![alt text](https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/Images/Etch-a-sketch-GUI.png)
+
+A navigatable user interface created in Adobe Illustrator with the main drawing board, a tool bar (from left to right: New, Open, Save, Refresh buttons), and the tray column on the left.
+The tool bar handles board (New and Refresh buttons), and the saving and loading features (Open and Save buttons).
+
+![alt text](https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/Images/Etch-a-sketch_Menu.png)
+
+The trays manipulate drawing process that allow user to pick color, choose line-width, change background and adjust speed.
+
+B. How to play
+Please see User Manual: https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/User_Manual.pdf
+
+C. Algorithms flow
+Please see Report for more details: https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/ETCH%20A%20SKETCH%20PROGRAM%20REPORT.pdf
+
+![alt text](https://github.com/HangNguyenRpd/Etch-a-Sketch/blob/master/Images/Etch-a-sketch_Flowchart.png)
 
 
 # BUILD INSTRUCTIONS:
